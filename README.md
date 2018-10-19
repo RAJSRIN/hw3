@@ -25,16 +25,12 @@ Critical Thinking (8 points total)
 Fill out the critical thinking section by modifying this README.md file.
 If you want to illustrate using diagrams, check out draw.io, which has a nice integration with github.
 AWS Method 1 (2 points)
-Description: Setup an instance of AWS server, install all required packages, migrate the scripts over and run them on a standalone aws server.
 
 AWS Method 2 (2 points)
-Description: Migrate docker image directly to the cloud.
 
 GCP Method 1 (2 points)
-Description: Setup a GCP server, setup up cloud storage and have the GCP instance connect to the cloud storage as NAS. Upload the scripts ( or docker image) into the instance, Save the generated pickle and csv files onto the cloud storage.
 
 GCP Method 2 (2 points)
-Description: Setup an instance, move the scripts over to the instance, setup Cloud based machine learning, rewrite scripts to use cloud based machine learning.
 
 Applied (7 points total)
 Choose one of the methods described above, and implement it using your work from homework 2. Submit screenshots in the screenshot folder on this repo to document the completion of your process.
